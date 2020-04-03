@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Taazim/my_list_todo.github.io/my-to-do-list/static/css/main.f05cd5d3.chunk.css",
+    "main.js": "/Taazim/my_list_todo.github.io/my-to-do-list/static/js/main.0a169bc3.chunk.js",
+    "main.js.map": "/Taazim/my_list_todo.github.io/my-to-do-list/static/js/main.0a169bc3.chunk.js.map",
+    "runtime-main.js": "/Taazim/my_list_todo.github.io/my-to-do-list/static/js/runtime-main.24fca522.js",
+    "runtime-main.js.map": "/Taazim/my_list_todo.github.io/my-to-do-list/static/js/runtime-main.24fca522.js.map",
+    "static/js/2.3415368c.chunk.js": "/Taazim/my_list_todo.github.io/my-to-do-list/static/js/2.3415368c.chunk.js",
+    "static/js/2.3415368c.chunk.js.map": "/Taazim/my_list_todo.github.io/my-to-do-list/static/js/2.3415368c.chunk.js.map",
+    "index.html": "/Taazim/my_list_todo.github.io/my-to-do-list/index.html",
+    "precache-manifest.7094205bf774f3623ff59fa1d15596fd.js": "/Taazim/my_list_todo.github.io/my-to-do-list/precache-manifest.7094205bf774f3623ff59fa1d15596fd.js",
+    "service-worker.js": "/Taazim/my_list_todo.github.io/my-to-do-list/service-worker.js",
+    "static/css/main.f05cd5d3.chunk.css.map": "/Taazim/my_list_todo.github.io/my-to-do-list/static/css/main.f05cd5d3.chunk.css.map",
+    "static/js/2.3415368c.chunk.js.LICENSE.txt": "/Taazim/my_list_todo.github.io/my-to-do-list/static/js/2.3415368c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24fca522.js",
+    "static/js/2.3415368c.chunk.js",
+    "static/css/main.f05cd5d3.chunk.css",
+    "static/js/main.0a169bc3.chunk.js"
+  ]
+}
